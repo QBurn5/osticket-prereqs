@@ -32,34 +32,27 @@ CGI and Common HTTP Features
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<p>- Install / Enable IIS in Windows With CGI and Common HTTP Features</p>
 
-<p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![Screenshot 2024-02-26 132241](https://github.com/QBurn5/osticket-prereqs/assets/93794708/d4fb0cfe-fba2-4c51-9d8e-daa6da5ac667)
+![Screenshot 2024-02-26 132251](https://github.com/QBurn5/osticket-prereqs/assets/93794708/66d05047-bdee-4549-b9a1-e272c82b7167)
+<p>- Install PHP Manager for IIS</p>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![Screenshot 2024-02-26 125837 - Copy](https://github.com/QBurn5/osticket-prereqs/assets/93794708/49a4e90f-fe9e-45e7-a68f-99127565724b)
+<p>- Install Rewrite Module</p>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+![Screenshot 2024-02-26 125937 - Copy](https://github.com/QBurn5/osticket-prereqs/assets/93794708/214b0fc8-42d5-42da-a4ab-14a88389a6e7)
+<p>- Install VC_redist.x86.exe.</p>
+
+![Screenshot 2024-02-26 130145](https://github.com/QBurn5/osticket-prereqs/assets/93794708/aa17e4e4-e3a8-4ea6-bb28-fc590d482c93)
+<p>- Install MySQL 5.5.62</p>
+
+![Screenshot 2024-02-26 130232](https://github.com/QBurn5/osticket-prereqs/assets/93794708/6943ad50-9e50-4c8e-aaeb-70e973abce58)
+
+<p>- Install osTicket</p>
+
+![Screenshot 2024-02-26 130808](https://github.com/QBurn5/osticket-prereqs/assets/93794708/fbc3f31c-3e59-4481-a576-907484f117fd)
+
+
+
