@@ -28,6 +28,7 @@ CGI and Common HTTP Features
 - Install Rewrite Module 
 - Install VC_redist.x86.exe.
 - Install MySQL 5.5.62
+- Install osTicket
 
 <h2>Installation Steps</h2>
 
